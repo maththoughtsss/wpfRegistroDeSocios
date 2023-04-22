@@ -1,0 +1,16 @@
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\wpfRegistroDeSocios\wpfRegistroDeSocios\obj\Debug\wpfRegistroDeSocios.csproj.AssemblyReference.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\wpfRegistroDeSocios\wpfRegistroDeSocios\obj\Debug\wpfRegistroDeSocios.csproj.SuggestedBindingRedirects.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\wpfRegistroDeSocios\wpfRegistroDeSocios\obj\Debug\MainWindow.g.cs
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\wpfRegistroDeSocios\wpfRegistroDeSocios\obj\Debug\App.g.cs
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\wpfRegistroDeSocios\wpfRegistroDeSocios\obj\Debug\wpfRegistroDeSocios_MarkupCompile.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\wpfRegistroDeSocios\wpfRegistroDeSocios\obj\Debug\wpfRegistroDeSocios_MarkupCompile.lref
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\wpfRegistroDeSocios\wpfRegistroDeSocios\bin\Debug\wpfRegistroDeSocios.exe.config
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\wpfRegistroDeSocios\wpfRegistroDeSocios\bin\Debug\wpfRegistroDeSocios.exe
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\wpfRegistroDeSocios\wpfRegistroDeSocios\bin\Debug\wpfRegistroDeSocios.pdb
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\wpfRegistroDeSocios\wpfRegistroDeSocios\obj\Debug\MainWindow.baml
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\wpfRegistroDeSocios\wpfRegistroDeSocios\obj\Debug\wpfRegistroDeSocios.g.resources
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\wpfRegistroDeSocios\wpfRegistroDeSocios\obj\Debug\wpfRegistroDeSocios.Properties.Resources.resources
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\wpfRegistroDeSocios\wpfRegistroDeSocios\obj\Debug\wpfRegistroDeSocios.csproj.GenerateResource.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\wpfRegistroDeSocios\wpfRegistroDeSocios\obj\Debug\wpfRegistroDeSocios.csproj.CoreCompileInputs.cache
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\wpfRegistroDeSocios\wpfRegistroDeSocios\obj\Debug\wpfRegistroDeSocios.exe
+C:\Users\munoz\OneDrive\Escritorio\InformaticsEngineering\Codes_I\wpfRegistroDeSocios\wpfRegistroDeSocios\obj\Debug\wpfRegistroDeSocios.pdb
